@@ -1,0 +1,2 @@
+# Matricial-Distance-for-Cluster-Analysis-of-Amino-Acids
+Cluster analysis for side chains in amino-acids. Use of a custom measure needed in R^m×3 to apply cluster analysis methodology. Comparison of several distances for 3- Dimensional structures. Custom matricial similarity measures are proposed. Pioneer approach, quite different from the usual one in the R^p space. Implementation of custom K-means algorithm in Matlab to handle complex 3 dimensional structures.
