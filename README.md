@@ -20,7 +20,7 @@ Cluster analysis for side chains in amino-acids. Use of a custom measure needed 
 
 ![](https://github.com/rsrjohnson/Matricial-Distance-for-Cluster-Analysis-of-Amino-Acids/blob/main/Images/translation.png)
 
-### Run the kmeans algorithm to obtain clustermenbers and centroids ###
+### Run the kmeans algorithm to obtain cluster members and centroids ###
 
     >> [clustertemp,asigs,ctr ] = kmeans2( Dnew,6,6,0.001 );
 
